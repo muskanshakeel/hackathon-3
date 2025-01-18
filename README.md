@@ -1,1 +1,1 @@
-# hackathon-3-day-2
+# hackathon-3
